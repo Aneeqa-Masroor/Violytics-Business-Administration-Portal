@@ -1,0 +1,242 @@
+[
+ {
+  "id": "PRD-001",
+  "name": "Aero 14 Ultrabook",
+  "price": 1889.99,
+  "category": "Laptops",
+  "stock": 143,
+  "image": "https://i.pinimg.com/736x/71/aa/0d/71aa0dba73b6124b4d7216d04c6b41b6.jpg"
+ },
+ {
+  "id": "PRD-002",
+  "name": "Forge 16 Pro",
+  "price": 2189.99,
+  "category": "Laptops",
+  "stock": 230,
+  "image": "https://i.pinimg.com/736x/91/8e/b2/918eb29e8ced54267668832fa9bd39bc.jpg"
+ },
+ {
+  "id": "PRD-003",
+  "name": "Slate Air 13",
+  "price": 1069.99,
+  "category": "Laptops",
+  "stock": 18,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPB5XOVTkUNai6ZHY1qxCoF0IvSSGbPAaqRgs3F1mExDSwsFy0xolgHj3A&s=10"
+ },
+ {
+  "id": "PRD-004",
+  "name": "Titan G15 Gaming",
+  "price": 1219.99,
+  "category": "Laptops",
+  "stock": 105,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258033_MSI_Titan_18_gaming_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&w=2400"
+ },
+ {
+  "id": "PRD-005",
+  "name": "Nimbus 15 Flex",
+  "price": 1849.99,
+  "category": "Laptops",
+  "stock": 5,
+  "image": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MjYzMTQ1fGltYWdlL3BuZ3xoMmQvaGZkLzk5Nzk1MTQ4ODAwMzAucG5nfDNlZWRlNGIwYTc5MjAyNjkzNDkzNTg2MWY0MjkzZDQ5N2E2MWJjOTk1Y2M5ZDJjZGIyNzRhYTE0OGFlYmE4MGE/lenovo-flex-5-15-intel-black-hero.png"
+ },
+ {
+  "id": "PRD-006",
+  "name": "Vertex Studio 17",
+  "price": 1749.99,
+  "category": "Laptops",
+  "stock": 20,
+  "image": "https://uaedubai-bucket.s3.me-central-1.amazonaws.com/wp-content/uploads/2023/09/MSI-Stealth-17-Studio_uaedubai-ae_1.jpg"
+ },
+ {
+  "id": "PRD-007",
+  "name": "Nova X1",
+  "price": 349.99,
+  "category": "Smartphones",
+  "stock": 41,
+  "image": "https://i.pinimg.com/736x/8b/c0/93/8bc093664ee5cc4a53477ed7a0ef7319.jpg"
+ },
+ {
+  "id": "PRD-008",
+  "name": "Nova X1 Pro",
+  "price": 889.99,
+  "category": "Smartphones",
+  "stock": 137,
+  "image": "https://i.pinimg.com/736x/5a/b3/ef/5ab3ef2fec305d8e03d8d2e8017e8037.jpg"
+ },
+ {
+  "id": "PRD-009",
+  "name": "Pulse 5G",
+  "price": 1249.99,
+  "category": "Smartphones",
+  "stock": 146,
+  "image": "https://aiplusstore.com/cdn/shop/files/AI_pulse_2_Purple-_4GB_64_Storage.jpg?v=1773654981"
+ },
+ {
+  "id": "PRD-010",
+  "name": "Orbit Lite",
+  "price": 559.99,
+  "category": "Smartphones",
+  "stock": 113,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScc-A-oIzIT6GGTibyWn8dCzK2tcQPCQR25BEORV5oaQ&s=10"
+ },
+ {
+  "id": "PRD-011",
+  "name": "Zenith Fold",
+  "price": 1039.99,
+  "category": "Smartphones",
+  "stock": 119,
+  "image": "https://i.pinimg.com/736x/16/ea/be/16eabefc54fd26d6fbdd7bdf4256f57d.jpg"
+ },
+ {
+  "id": "PRD-012",
+  "name": "Echo SE",
+  "price": 1069.99,
+  "category": "Smartphones",
+  "stock": 33,
+  "image": "https://i.pinimg.com/736x/c6/2d/75/c62d75a4313c7e1e39b8247418b5eae3.jpg"
+ },
+ {
+  "id": "PRD-013",
+  "name": "Halo ANC Headphones",
+  "price": 229.99,
+  "category": "Audio",
+  "stock": 13,
+  "image": "https://i.pinimg.com/736x/a5/38/4b/a5384b9b3413e304cf5360f30be3bca1.jpg"
+ },
+ {
+  "id": "PRD-014",
+  "name": "Pods Mini",
+  "price": 349.99,
+  "category": "Audio",
+  "stock": 0,
+  "image": "https://i.pinimg.com/736x/4e/b7/89/4eb789b7c3517d3b6919af5f298b19d9.jpg"
+ },
+ {
+  "id": "PRD-015",
+  "name": "Bass Cube Speaker",
+  "price": 379.99,
+  "category": "Audio",
+  "stock": 30,
+  "image": "https://i.pinimg.com/736x/3c/4c/1b/3c4c1b8e881cceed3ba6a5f2d2c110cf.jpg"
+ },
+ {
+  "id": "PRD-016",
+  "name": "Studio Monitor 5",
+  "price": 139.99,
+  "category": "Audio",
+  "stock": 51,
+  "image": "https://i.pinimg.com/736x/02/34/19/0234191720c8a5caaa81e5ae0b7a3bb7.jpg"
+ },
+ {
+  "id": "PRD-017",
+  "name": "Wave Soundbar",
+  "price": 369.99,
+  "category": "Audio",
+  "stock": 210,
+  "image": "https://i.pinimg.com/736x/3b/b0/87/3bb0870c6f8058cdc5b4ee2ae005fe5d.jpg"
+ },
+ {
+  "id": "PRD-018",
+  "name": "Clip Earbuds",
+  "price": 169.99,
+  "category": "Audio",
+  "stock": 240,
+  "image": "https://i.pinimg.com/736x/f4/81/3a/f4813aaaf504bfeb59566cf3ab78bb2e.jpg"
+ },
+ {
+  "id": "PRD-019",
+  "name": "Pulse Watch 3",
+  "price": 389.99,
+  "category": "Wearables",
+  "stock": 75,
+  "image": "https://i.pinimg.com/736x/f2/a6/af/f2a6afb334e2241625f0b0a36d16638a.jpg"
+ },
+ {
+  "id": "PRD-020",
+  "name": "Fit Band 7",
+  "price": 309.99,
+  "category": "Wearables",
+  "stock": 0,
+  "image": "https://i.pinimg.com/736x/49/56/31/495631b6ffc015ef33fb7086945dfb87.jpg"
+ },
+ {
+  "id": "PRD-021",
+  "name": "Ring Sense",
+  "price": 89.99,
+  "category": "Wearables",
+  "stock": 0,
+  "image": "https://i.pinimg.com/1200x/b5/a7/64/b5a76460d0e46a8f8c298b1ab3684c4f.jpg"
+ },
+ {
+  "id": "PRD-022",
+  "name": "Trek GPS Watch",
+  "price": 109.99,
+  "category": "Wearables",
+  "stock": 6,
+  "image": "https://i.pinimg.com/1200x/43/91/a5/4391a552c8c76bec5e7d8de75c16f564.jpg"
+ },
+ {
+  "id": "PRD-023",
+  "name": "Kids Tracker",
+  "price": 209.99,
+  "category": "Wearables",
+  "stock": 208,
+  "image": "https://i.pinimg.com/1200x/a2/fd/2e/a2fd2e9b9c42a1db6736a0a9c0f73dff.jpg"
+ },
+ {
+  "id": "PRD-024",
+  "name": "Lite Band",
+  "price": 189.99,
+  "category": "Wearables",
+  "stock": 104,
+  "image": "https://i.pinimg.com/1200x/02/8a/8d/028a8d3cfd0dee6f46a08fdd595fb92e.jpg"
+ },
+ {
+  "id": "PRD-025",
+  "name": "Mech Keyboard K8",
+  "price": 59.99,
+  "category": "Computer Accessories",
+  "stock": 0,
+  "image": "https://i.pinimg.com/736x/41/4d/9c/414d9c4d021db14759a63e320764c194.jpg"
+ },
+ {
+  "id": "PRD-026",
+  "name": "Ergo Mouse M2",
+  "price": 169.99,
+  "category": "Computer Accessories",
+  "stock": 183,
+  "image": "https://i.pinimg.com/736x/41/36/cb/4136cb456850772723c3d960f495f2bf.jpg"
+ },
+ {
+  "id": "PRD-027",
+  "name": "USB-C Hub 9-in-1",
+  "price": 199.99,
+  "category": "Computer Accessories",
+  "stock": 0,
+  "image": "https://i.pinimg.com/1200x/4c/c9/36/4cc9368166cac59b7fbf73e8dfc4f3a2.jpg"
+ },
+ {
+  "id": "PRD-028",
+  "name": "4K Webcam",
+  "price": 39.99,
+  "category": "Computer Accessories",
+  "stock": 167,
+  "image": "https://i.pinimg.com/736x/bd/73/9c/bd739cdeb4fde3b585b25fe20be9ffa0.jpg"
+ },
+ {
+  "id": "PRD-029",
+  "name": "Laptop Stand Pro",
+  "price": 149.99,
+  "category": "Computer Accessories",
+  "stock": 8,
+  "image": "https://i.pinimg.com/736x/d8/69/07/d86907c60269a41d8072eaa69c7086c2.jpg"
+ },
+ {
+  "id": "PRD-030",
+  "name": "Portable SSD 1TB",
+  "price": 29.99,
+  "category": "Computer Accessories",
+  "stock": 158,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLv31yBzuEZrn7yk0qeHT_ejnzk9g2Ackg1UKmUASyzFC_ZhFgQVmNZHC&s=10"
+ }
+]

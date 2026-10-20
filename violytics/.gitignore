@@ -1,0 +1,23 @@
+pnpm-debug.log*
+
+# Local and temporary files
+*.local
+.tmp/
+temp/
+
+# Editor settings
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# TypeScript build cache
+*.tsbuildinfo
+
+**/node_modules/

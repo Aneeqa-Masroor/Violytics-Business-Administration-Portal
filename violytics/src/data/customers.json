@@ -1,0 +1,482 @@
+[
+ {
+  "customerId": "CUS-1001",
+  "name": "Ayesha Sheikh",
+  "company": "Orbit Traders",
+  "registrationDate": "2024-08-10",
+  "status": "Pending",
+  "totalSpending": 5619.82
+ },
+ {
+  "customerId": "CUS-1002",
+  "name": "Omar Farooqui",
+  "company": "Apex Digital",
+  "registrationDate": "2023-07-01",
+  "status": "Pending",
+  "totalSpending": 14969.88
+ },
+ {
+  "customerId": "CUS-1003",
+  "name": "Sara Qureshi",
+  "company": "Techno Mart",
+  "registrationDate": "2024-11-10",
+  "status": "Active",
+  "totalSpending": 9199.86
+ },
+ {
+  "customerId": "CUS-1004",
+  "name": "Hamza Khan",
+  "company": "Pixel Hub",
+  "registrationDate": "2024-01-06",
+  "status": "Active",
+  "totalSpending": 12599.75
+ },
+ {
+  "customerId": "CUS-1005",
+  "name": "Zainab Ansari",
+  "company": "Urban Circuit",
+  "registrationDate": "2024-06-12",
+  "status": "Active",
+  "totalSpending": 14759.81
+ },
+ {
+  "customerId": "CUS-1006",
+  "name": "Bilal Raza",
+  "company": "Sparkline Co",
+  "registrationDate": "2023-01-18",
+  "status": "Active",
+  "totalSpending": 9679.74
+ },
+ {
+  "customerId": "CUS-1007",
+  "name": "Maria Hussain",
+  "company": "Sparkline Co",
+  "registrationDate": "2025-01-19",
+  "status": "Inactive",
+  "totalSpending": 4499.89
+ },
+ {
+  "customerId": "CUS-1008",
+  "name": "Usman Malik",
+  "company": "Nexa Retail",
+  "registrationDate": "2024-08-26",
+  "status": "Active",
+  "totalSpending": 11069.79
+ },
+ {
+  "customerId": "CUS-1009",
+  "name": "Hina Mirza",
+  "company": "Urban Circuit",
+  "registrationDate": "2023-06-25",
+  "status": "Pending",
+  "totalSpending": 12299.81
+ },
+ {
+  "customerId": "CUS-1010",
+  "name": "Danish Siddiqui",
+  "company": "Apex Digital",
+  "registrationDate": "2022-12-28",
+  "status": "Active",
+  "totalSpending": 9849.81
+ },
+ {
+  "customerId": "CUS-1011",
+  "name": "Laiba Ahmed",
+  "company": "Bluefin Supply",
+  "registrationDate": "2023-12-22",
+  "status": "Active",
+  "totalSpending": 11129.88
+ },
+ {
+  "customerId": "CUS-1012",
+  "name": "Farhan Baig",
+  "company": "Apex Digital",
+  "registrationDate": "2023-12-25",
+  "status": "Active",
+  "totalSpending": 9379.78
+ },
+ {
+  "customerId": "CUS-1013",
+  "name": "Noor Sheikh",
+  "company": "Nexa Retail",
+  "registrationDate": "2024-06-19",
+  "status": "Active",
+  "totalSpending": 11359.87
+ },
+ {
+  "customerId": "CUS-1014",
+  "name": "Imran Farooqui",
+  "company": "Sparkline Co",
+  "registrationDate": "2024-10-14",
+  "status": "Inactive",
+  "totalSpending": 9789.87
+ },
+ {
+  "customerId": "CUS-1015",
+  "name": "Sana Qureshi",
+  "company": "Zenith Corp",
+  "registrationDate": "2024-01-03",
+  "status": "Inactive",
+  "totalSpending": 15429.76
+ },
+ {
+  "customerId": "CUS-1016",
+  "name": "Ayesha Khan",
+  "company": "Zenith Corp",
+  "registrationDate": "2024-12-30",
+  "status": "Active",
+  "totalSpending": 16249.69
+ },
+ {
+  "customerId": "CUS-1017",
+  "name": "Omar Ansari",
+  "company": "Bluefin Supply",
+  "registrationDate": "2023-02-03",
+  "status": "Inactive",
+  "totalSpending": 12179.79
+ },
+ {
+  "customerId": "CUS-1018",
+  "name": "Sara Raza",
+  "company": "CloudNine",
+  "registrationDate": "2023-03-09",
+  "status": "Active",
+  "totalSpending": 10639.74
+ },
+ {
+  "customerId": "CUS-1019",
+  "name": "Hamza Hussain",
+  "company": "BrightWave",
+  "registrationDate": "2025-03-24",
+  "status": "Inactive",
+  "totalSpending": 4259.89
+ },
+ {
+  "customerId": "CUS-1020",
+  "name": "Zainab Malik",
+  "company": "Metro Gadgets",
+  "registrationDate": "2025-09-14",
+  "status": "Active",
+  "totalSpending": 8709.79
+ },
+ {
+  "customerId": "CUS-1021",
+  "name": "Bilal Mirza",
+  "company": "Nexa Retail",
+  "registrationDate": "2023-04-19",
+  "status": "Active",
+  "totalSpending": 3009.84
+ },
+ {
+  "customerId": "CUS-1022",
+  "name": "Maria Siddiqui",
+  "company": "Techno Mart",
+  "registrationDate": "2023-05-17",
+  "status": "Active",
+  "totalSpending": 8989.87
+ },
+ {
+  "customerId": "CUS-1023",
+  "name": "Usman Ahmed",
+  "company": "Orbit Traders",
+  "registrationDate": "2023-12-15",
+  "status": "Active",
+  "totalSpending": 7209.88
+ },
+ {
+  "customerId": "CUS-1024",
+  "name": "Hina Baig",
+  "company": "Metro Gadgets",
+  "registrationDate": "2025-09-10",
+  "status": "Pending",
+  "totalSpending": 14799.77
+ },
+ {
+  "customerId": "CUS-1025",
+  "name": "Danish Sheikh",
+  "company": "Urban Circuit",
+  "registrationDate": "2024-11-09",
+  "status": "Active",
+  "totalSpending": 13779.71
+ },
+ {
+  "customerId": "CUS-1026",
+  "name": "Laiba Farooqui",
+  "company": "Urban Circuit",
+  "registrationDate": "2023-12-09",
+  "status": "Inactive",
+  "totalSpending": 13609.72
+ },
+ {
+  "customerId": "CUS-1027",
+  "name": "Farhan Qureshi",
+  "company": "Pixel Hub",
+  "registrationDate": "2025-08-19",
+  "status": "Active",
+  "totalSpending": 6449.82
+ },
+ {
+  "customerId": "CUS-1028",
+  "name": "Noor Khan",
+  "company": "Orbit Traders",
+  "registrationDate": "2025-08-25",
+  "status": "Active",
+  "totalSpending": 16789.83
+ },
+ {
+  "customerId": "CUS-1029",
+  "name": "Imran Ansari",
+  "company": "Nexa Retail",
+  "registrationDate": "2025-05-12",
+  "status": "Active",
+  "totalSpending": 16959.73
+ },
+ {
+  "customerId": "CUS-1030",
+  "name": "Sana Raza",
+  "company": "BrightWave",
+  "registrationDate": "2023-01-24",
+  "status": "Active",
+  "totalSpending": 8869.77
+ },
+ {
+  "customerId": "CUS-1031",
+  "name": "Ayesha Hussain",
+  "company": "Apex Digital",
+  "registrationDate": "2024-04-12",
+  "status": "Active",
+  "totalSpending": 17379.73
+ },
+ {
+  "customerId": "CUS-1032",
+  "name": "Omar Malik",
+  "company": "Nexa Retail",
+  "registrationDate": "2025-09-25",
+  "status": "Active",
+  "totalSpending": 13929.77
+ },
+ {
+  "customerId": "CUS-1033",
+  "name": "Sara Mirza",
+  "company": "Urban Circuit",
+  "registrationDate": "2025-03-26",
+  "status": "Active",
+  "totalSpending": 23309.64
+ },
+ {
+  "customerId": "CUS-1034",
+  "name": "Hamza Siddiqui",
+  "company": "Pixel Hub",
+  "registrationDate": "2022-12-24",
+  "status": "Active",
+  "totalSpending": 12819.82
+ },
+ {
+  "customerId": "CUS-1035",
+  "name": "Zainab Ahmed",
+  "company": "Zenith Corp",
+  "registrationDate": "2023-06-25",
+  "status": "Pending",
+  "totalSpending": 16299.72
+ },
+ {
+  "customerId": "CUS-1036",
+  "name": "Bilal Baig",
+  "company": "Nexa Retail",
+  "registrationDate": "2025-02-20",
+  "status": "Active",
+  "totalSpending": 11429.79
+ },
+ {
+  "customerId": "CUS-1037",
+  "name": "Maria Sheikh",
+  "company": "Zenith Corp",
+  "registrationDate": "2023-03-27",
+  "status": "Active",
+  "totalSpending": 10459.65
+ },
+ {
+  "customerId": "CUS-1038",
+  "name": "Usman Farooqui",
+  "company": "Techno Mart",
+  "registrationDate": "2024-03-28",
+  "status": "Active",
+  "totalSpending": 11359.82
+ },
+ {
+  "customerId": "CUS-1039",
+  "name": "Hina Qureshi",
+  "company": "Orbit Traders",
+  "registrationDate": "2025-04-12",
+  "status": "Active",
+  "totalSpending": 10609.75
+ },
+ {
+  "customerId": "CUS-1040",
+  "name": "Danish Khan",
+  "company": "Techno Mart",
+  "registrationDate": "2025-06-20",
+  "status": "Pending",
+  "totalSpending": 12839.87
+ },
+ {
+  "customerId": "CUS-1041",
+  "name": "Laiba Ansari",
+  "company": "Bluefin Supply",
+  "registrationDate": "2023-12-30",
+  "status": "Active",
+  "totalSpending": 22859.7
+ },
+ {
+  "customerId": "CUS-1042",
+  "name": "Farhan Raza",
+  "company": "Metro Gadgets",
+  "registrationDate": "2024-02-29",
+  "status": "Active",
+  "totalSpending": 11019.81
+ },
+ {
+  "customerId": "CUS-1043",
+  "name": "Noor Hussain",
+  "company": "Techno Mart",
+  "registrationDate": "2024-05-24",
+  "status": "Inactive",
+  "totalSpending": 6449.84
+ },
+ {
+  "customerId": "CUS-1044",
+  "name": "Imran Malik",
+  "company": "Orbit Traders",
+  "registrationDate": "2023-06-29",
+  "status": "Pending",
+  "totalSpending": 6319.82
+ },
+ {
+  "customerId": "CUS-1045",
+  "name": "Sana Mirza",
+  "company": "Pixel Hub",
+  "registrationDate": "2024-07-16",
+  "status": "Inactive",
+  "totalSpending": 5999.9
+ },
+ {
+  "customerId": "CUS-1046",
+  "name": "Ayesha Siddiqui",
+  "company": "Apex Digital",
+  "registrationDate": "2024-10-10",
+  "status": "Pending",
+  "totalSpending": 16109.82
+ },
+ {
+  "customerId": "CUS-1047",
+  "name": "Omar Ahmed",
+  "company": "Sparkline Co",
+  "registrationDate": "2025-02-14",
+  "status": "Active",
+  "totalSpending": 9289.89
+ },
+ {
+  "customerId": "CUS-1048",
+  "name": "Sara Baig",
+  "company": "Pixel Hub",
+  "registrationDate": "2024-07-18",
+  "status": "Inactive",
+  "totalSpending": 12309.8
+ },
+ {
+  "customerId": "CUS-1049",
+  "name": "Hamza Sheikh",
+  "company": "Pixel Hub",
+  "registrationDate": "2025-04-03",
+  "status": "Active",
+  "totalSpending": 16489.8
+ },
+ {
+  "customerId": "CUS-1050",
+  "name": "Zainab Farooqui",
+  "company": "Orbit Traders",
+  "registrationDate": "2024-08-24",
+  "status": "Active",
+  "totalSpending": 5469.85
+ },
+ {
+  "customerId": "CUS-1051",
+  "name": "Bilal Qureshi",
+  "company": "Sparkline Co",
+  "registrationDate": "2024-07-17",
+  "status": "Inactive",
+  "totalSpending": 10589.84
+ },
+ {
+  "customerId": "CUS-1052",
+  "name": "Maria Khan",
+  "company": "Orbit Traders",
+  "registrationDate": "2024-10-26",
+  "status": "Active",
+  "totalSpending": 5259.87
+ },
+ {
+  "customerId": "CUS-1053",
+  "name": "Usman Ansari",
+  "company": "CloudNine",
+  "registrationDate": "2023-09-23",
+  "status": "Active",
+  "totalSpending": 12339.88
+ },
+ {
+  "customerId": "CUS-1054",
+  "name": "Hina Raza",
+  "company": "Techno Mart",
+  "registrationDate": "2023-01-08",
+  "status": "Active",
+  "totalSpending": 10949.79
+ },
+ {
+  "customerId": "CUS-1055",
+  "name": "Danish Hussain",
+  "company": "Nexa Retail",
+  "registrationDate": "2025-04-11",
+  "status": "Inactive",
+  "totalSpending": 6819.88
+ },
+ {
+  "customerId": "CUS-1056",
+  "name": "Laiba Malik",
+  "company": "Apex Digital",
+  "registrationDate": "2024-06-27",
+  "status": "Inactive",
+  "totalSpending": 13549.67
+ },
+ {
+  "customerId": "CUS-1057",
+  "name": "Farhan Mirza",
+  "company": "BrightWave",
+  "registrationDate": "2023-07-30",
+  "status": "Inactive",
+  "totalSpending": 8269.86
+ },
+ {
+  "customerId": "CUS-1058",
+  "name": "Noor Siddiqui",
+  "company": "Orbit Traders",
+  "registrationDate": "2023-12-19",
+  "status": "Active",
+  "totalSpending": 10019.87
+ },
+ {
+  "customerId": "CUS-1059",
+  "name": "Imran Ahmed",
+  "company": "Nexa Retail",
+  "registrationDate": "2023-10-26",
+  "status": "Active",
+  "totalSpending": 8929.84
+ },
+ {
+  "customerId": "CUS-1060",
+  "name": "Sana Baig",
+  "company": "Sparkline Co",
+  "registrationDate": "2023-03-05",
+  "status": "Active",
+  "totalSpending": 9459.85
+ }
+]

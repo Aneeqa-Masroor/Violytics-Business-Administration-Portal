@@ -1,0 +1,80 @@
+[
+ {
+  "month": "2025-10",
+  "revenue": 15620,
+  "sales": 21,
+  "target": 17000
+ },
+ {
+  "month": "2025-11",
+  "revenue": 47009,
+  "sales": 49,
+  "target": 48000
+ },
+ {
+  "month": "2025-12",
+  "revenue": 45919,
+  "sales": 52,
+  "target": 50000
+ },
+ {
+  "month": "2026-01",
+  "revenue": 52139,
+  "sales": 55,
+  "target": 53000
+ },
+ {
+  "month": "2026-02",
+  "revenue": 46749,
+  "sales": 57,
+  "target": 52000
+ },
+ {
+  "month": "2026-03",
+  "revenue": 39729,
+  "sales": 36,
+  "target": 41000
+ },
+ {
+  "month": "2026-04",
+  "revenue": 43369,
+  "sales": 55,
+  "target": 40000
+ },
+ {
+  "month": "2026-05",
+  "revenue": 49849,
+  "sales": 52,
+  "target": 52000
+ },
+ {
+  "month": "2026-06",
+  "revenue": 58139,
+  "sales": 64,
+  "target": 55000
+ },
+ {
+  "month": "2026-07",
+  "revenue": 61909,
+  "sales": 71,
+  "target": 61000
+ },
+ {
+  "month": "2026-08",
+  "revenue": 59329,
+  "sales": 71,
+  "target": 55000
+ },
+ {
+  "month": "2026-09",
+  "revenue": 72479,
+  "sales": 78,
+  "target": 71000
+ },
+ {
+  "month": "2026-10",
+  "revenue": 80849,
+  "sales": 81,
+  "target": 83000
+ }
+]
